@@ -1,0 +1,7 @@
+D:\C# projects\Compression\bin\Debug\Compression.exe.config
+D:\C# projects\Compression\bin\Debug\Compression.exe
+D:\C# projects\Compression\bin\Debug\Compression.pdb
+D:\C# projects\Compression\obj\Debug\Compression.csproj.CoreCompileInputs.cache
+D:\C# projects\Compression\obj\Debug\Compression.exe
+D:\C# projects\Compression\obj\Debug\Compression.pdb
+D:\C# projects\Compression\obj\Debug\Compression.csprojAssemblyReference.cache
